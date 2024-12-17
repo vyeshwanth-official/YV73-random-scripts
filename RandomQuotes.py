@@ -4,6 +4,7 @@ import sys
 
 # List of motivational quotes
 quotes = [
+    "Code stalker. Got you peeking!",
     "The only way to do great work is to love what you do. - Steve Jobs",
     "Believe you can and you're halfway there. - Theodore Roosevelt",
     "Your limitation—it's only your imagination.",
